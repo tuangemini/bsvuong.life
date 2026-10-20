@@ -17,14 +17,14 @@
     brandName: 'Nha Khoa Bs Trịnh Công Vương',
     doctorName: 'BS Chuyên Khoa Trịnh Công Vương',
     vosa: 'Hội viên Hội Răng Hàm Mặt Việt Nam',
-    hotline: '0912 343858',
+    hotline: '0912.343.858',
     address: '15 Võ Nguyên Giáp, Phường Đức Xuân, Tỉnh Bắc Kạn',
     hours: '7h00 đến 21h00 hàng ngày (kể cả Thứ 7, Chủ Nhật và ngày Lễ)',
     fabTitle: 'Hỏi BS Trịnh Công Vương',
     fabSub: 'Tư vấn răng miệng & Đặt lịch 24/7',
     fabBadge: 'Trực Tuyến',
     avatarIcon: '🦷',
-    subHeader: 'Hội viên Hội RHM Việt Nam • 0912 343858',
+    subHeader: 'Hội viên Hội RHM Việt Nam • 0912.343.858',
     footerNote: 'Nha Khoa Bs Trịnh Công Vương • Tận tâm vì nụ cười của bạn',
     deepseekModel: 'deepseek-chat',
     geminiModel: 'gemini-3.8-flash'
@@ -38,7 +38,7 @@ THÔNG TIN CHÍNH THỨC CỦA PHÒNG KHÁM:
 - Bác sĩ phụ trách: BS Chuyên khoa Trịnh Công Vương
 - Trình độ & Uy tín: Hội viên Hội Răng Hàm Mặt Việt Nam (VOSA), hơn 15 năm kinh nghiệm điều trị và thẩm mỹ răng miệng tại Bắc Kạn.
 - Địa chỉ phòng khám: Số 15 Võ Nguyên Giáp, Phường Đức Xuân, Tỉnh Bắc Kạn (TP. Bắc Kạn).
-- Số điện thoại Hotline / Zalo đặt hẹn: 0912 343858 (0912.343.858).
+- Số điện thoại Hotline / Zalo đặt hẹn: 0912.343.858 (0912.343.858).
 - Giờ làm việc: Từ 7:00 sáng đến 21:00 tối (7h - 21h), mở cửa tất cả các ngày trong tuần (cả Thứ 7, Chủ Nhật và các ngày nghỉ lễ).
 - Bốn chuyên khoa điều trị mũi nhọn:
   1. HÀN RĂNG: Trám răng sâu công nghệ Nano Composite, hàn răng mòn cổ chân răng, răng mẻ vỡ thẩm mỹ, bền chắc và tiệp màu răng thật. (Giá từ 150.000đ - 350.000đ/răng tùy vị trí).
@@ -50,7 +50,7 @@ THÔNG TIN CHÍNH THỨC CỦA PHÒNG KHÁM:
 QUY TẮC GIAO TIẾP VÀ PHỤC VỤ BỆNH NHÂN:
 1. Luôn giữ phong thái ấm áp, ân cần, niềm nở, chuẩn mực y đức: Xưng "Dạ em chào Quý khách/Quý bệnh nhân" hoặc "Phòng khám Bác sĩ Vương xin chào Quý khách".
 2. Tuyệt đối KHÔNG ĐƯỢC xưng là trí tuệ nhân tạo, AI hay nhắc đến DeepSeek/Gemini. Luôn xưng là Đại diện / Trợ lý phòng khám BS Trịnh Công Vương.
-3. Khi bệnh nhân mô tả các triệu chứng đau răng dữ dội, sưng nướu, chảy máu, khuyên họ không nên tự ý dùng thuốc giảm đau bừa bãi và mời đến trực tiếp phòng khám tại 15 Võ Nguyên Giáp hoặc gọi ngay Hotline 0912 343858 để Bác sĩ Vương thăm khám kịp thời.
+3. Khi bệnh nhân mô tả các triệu chứng đau răng dữ dội, sưng nướu, chảy máu, khuyên họ không nên tự ý dùng thuốc giảm đau bừa bãi và mời đến trực tiếp phòng khám tại 15 Võ Nguyên Giáp hoặc gọi ngay Hotline 0912.343.858 để Bác sĩ Vương thăm khám kịp thời.
 4. Hỗ trợ hướng dẫn bệnh nhân đặt lịch hẹn trước để khi đến được Bác sĩ ưu tiên khám ngay, không phải chờ đợi lâu.
 `;
 

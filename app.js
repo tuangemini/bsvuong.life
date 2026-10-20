@@ -296,7 +296,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <div style="margin-bottom: 6px;"><strong>Dịch vụ:</strong> ${service}</div>
           <div style="margin-bottom: 6px;"><strong>Thời gian hẹn:</strong> ${time} - Ngày: ${date}</div>
           <div style="margin-bottom: 6px;"><strong>Địa chỉ:</strong> 15 Võ Nguyên Giáp, P. Đức Xuân, Bắc Kạn</div>
-          <div><strong>Hotline hỗ trợ:</strong> <a href="tel:0912343858" style="color: #dc2626; font-weight: 700;">0912 343858</a></div>
+          <div><strong>Hotline hỗ trợ:</strong> <a href="tel:0912343858" style="color: #dc2626; font-weight: 700;">0912.343.858</a></div>
         </div>
 
         <button id="btnCloseModal" style="

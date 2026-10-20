@@ -250,15 +250,16 @@ img {
 .main-nav {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 20px;
 }
 
 .nav-link {
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 0.92rem;
   color: var(--text-dark);
   position: relative;
   padding: 6px 0;
+  white-space: nowrap;
 }
 
 .nav-link::after {
@@ -285,12 +286,13 @@ img {
   display: flex;
   align-items: center;
   gap: 12px;
+  flex-shrink: 0;
 }
 
 .btn-hotline-header {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
   padding: 8px 16px;
   background: var(--accent-red-light);
   border: 1.5px solid rgba(220, 38, 38, 0.2);
@@ -298,6 +300,9 @@ img {
   color: var(--accent-red);
   font-weight: 700;
   font-size: 0.95rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+  letter-spacing: 0.02em;
   transition: var(--transition);
 }
 
